@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SuyashMishr
 -  I'm a MERN Full stack Developer.
 - 👀 I’m interested in App development & Artificial Intelligence
-- 🌱 I’m currently learning Java basics and now moving towords Data Structure & Algorithms.
-- 💞️ I’m looking to collaborate on App development
+- 🌱 I’m currently learning machine learning concepts and Data Structure & Algorithms.
+- 💞️ I’m looking to collaborate on App development and Web Development also.
 - 📫 How to reach me ? => "suyashmishraa983@gmail.com"
 
 <!---
