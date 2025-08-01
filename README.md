@@ -1,11 +1,69 @@
-- 👋 Hi, I’m @SuyashMishr
--  I'm a MERN Full stack Developer.
-- 👀 I’m interested in App development & Artificial Intelligence
-- 🌱 I’m currently learning machine learning concepts and Data Structure & Algorithms.
-- 💞️ I’m looking to collaborate on App development and Web Development also.
-- 📫 How to reach me ? => "suyashmishraa983@gmail.com"
+# 👋 Hi, I'm Suyash Mishra
 
-<!---
-SuyashMishr/SuyashMishr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ AI Researcher | Full Stack Developer | RAG + GAN Enthusiast |  DST Project Associate  
+🎓 B.Tech CSE @ MMMUT | Building Patentable EdTech & Multimodal AI Systems  
+🌐 Bridging Technology, Education & Language
+
+---
+
+## 🧩 Current Projects & Research
+
+- 🔬 **EduSarathi** – AI-powered multilingual question paper & curriculum generator for Indian schools  
+  `Fine-tuned Transformers · RAG Architecture · Bhashini API · NCERT Dataset · PDF/CSV Output`
+
+- 🧠 **Hybrid Ayurveda Chatbot** – RAG + GAN-based chatbot for generating novel Ayurvedic remedies  
+  `Generative Adversarial Networks · Retrieval-Augmented Generation · Domain Fine-Tuning`
+
+- 📊 **Student Attentiveness Analyzer** – Detecting online learning engagement via facial cues + MCQs  
+  `Computer Vision · ML Classifiers · Personalized Support Scoring`
+
+- 🤖 **AI Teaching Assistant** – Multi-tool agent for teachers with curriculum, slides, quizzes, assessments  
+  `n8n Automation · Translation · Content Generation · Multimodal Analysis`
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Tools**  
+`Python` · `JavaScript` · `TypeScript` · `HTML/CSS` · `Bash`  
+`Node.js` · `React.js` · `MongoDB` · `Express.js` · `FastAPI`  
+`Hugging Face Transformers` · `PyTorch` · `TensorFlow` · `LangChain`  
+`Docker` · `GitHub Actions` · `Kubernetes` · `Redis` · `PostgreSQL`  
+`Kaggle Notebooks` · `VS Code` · `Overleaf` · `Jupyter` · `n8n`
+
+**Specializations**  
+- 🔁 Fine-Tuning LLMs (Flan-T5, Sarvam-2B, BERT, etc.)  
+- 🔍 Retrieval-Augmented Generation (RAG)  
+- 🎨 Generative AI (GANs, Text-to-Image)  
+- 🌐 Multilingual NLP (via Bhashini API)  
+- 📂 AI-integrated File & Content Classification  
+- 📘 Curriculum-Aligned Educational AI
+
+---
+
+## 📈 GitHub Stats
+
+![Suyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuyashMishr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashMishr&layout=compact&theme=radical)
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- *Coming soon: Research notes, AI dev logs, and more!*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 Let's Connect
+
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/suyash-mishra07/)  
+- 🧪 [Kaggle](https://www.kaggle.com/suyashmishra07)  
+- 🧠 [Hugging Face](https://huggingface.co/SuyashMishra)  
+- 🌐 [Personal Website](https://suyashspace.netlify.app) 
+
+---
+
+### “Build what matters. Research what scales. Deliver what educates.”  
+🧑‍🔬 — *Suyash Mishra*
