@@ -14,9 +14,6 @@
 - 🧠 **Hybrid Ayurveda Chatbot** – RAG + GAN-based chatbot for generating novel Ayurvedic remedies  
   `Generative Adversarial Networks · Retrieval-Augmented Generation · Domain Fine-Tuning`
 
-- 📊 **Student Attentiveness Analyzer** – Detecting online learning engagement via facial cues + MCQs  
-  `Computer Vision · ML Classifiers · Personalized Support Scoring`
-
 - 🤖 **AI Teaching Assistant** – Multi-tool agent for teachers with curriculum, slides, quizzes, assessments  
   `n8n Automation · Translation · Content Generation · Multimodal Analysis`
 
